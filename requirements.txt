@@ -1,0 +1,10 @@
+google-ai-generativelanguage==0.6.15
+langchain_google_genai
+langchain
+langchain_community
+fastapi
+pydantic
+setuptools
+uvicorn
+
+-e.
